@@ -16,6 +16,8 @@
 ```
 > Default admin theme with a sidebar and a navbar
 
+![](https://github.com/websemantics/github-skin/raw/master/resources/img/classic.png)
+
 ## Install
 
 1- Use `composer ` to install,
