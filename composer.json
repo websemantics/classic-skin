@@ -1,0 +1,19 @@
+{
+    "name": "websemantics/classic-skin",
+    "description": "Default admin theme with a sidebar and a navbar",
+    "type": "pyrocms-theme-skin",
+    "keywords": [
+        "websemantics",
+        "pyrocms",
+        "theme",
+        "skin"
+    ],
+    "require": {
+        "websemantics/pyrocms-theme": "*"
+    },
+    "autoload": {
+        "psr-4": {
+          "Websemantics\\ClassicSkin\\": "src/"
+        }
+    }
+}
